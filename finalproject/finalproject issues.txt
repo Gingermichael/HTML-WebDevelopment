@@ -1,8 +1,0 @@
-Link: https://pen.eiu.edu/mpdobbs/finalproject/index.html
-
-
-2 fixes:
-
-Layout - I want to make the top and bottom navbar to look the way that I have it designed in my wireframe (included in zip folder)
-
-Background Color - I want the make the same navbar to have the following background color with white text inside if possible: rgb(65, 139, 250)
