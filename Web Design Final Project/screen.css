@@ -1,0 +1,119 @@
+#search {
+    width: 90px;
+    height: 35px;
+    float: right;
+}
+.navbar {
+    background-color: rgb(65, 139, 250);
+}
+
+.button {
+    background-color: rgb(65, 139, 250);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position:relative;
+    left: 38%;
+    margin-bottom: 50px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.btn {
+    background-color: black;
+}
+.navbar-center {
+    width: 100%;
+    text-align: center;
+}
+
+#social {
+    width: 200px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+#slideshow {
+    float: left;
+    width: 100%;
+    padding: 0;
+    border: none;
+    margin-top: 75px;
+    background-color: gray;
+    overflow: hidden;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+
+.h1, h1 {
+    font-size: 36px;
+    color: rgb(65, 139, 250);
+    text-align:center;
+}
+
+h2 {
+    color: rgb(65, 139, 250);
+    text-align:center;
+}
+
+h3 {
+    color: rgb(65, 139, 250);
+    text-align:center;
+}
+@media only screen and (max-width: 1024px) {
+    h1 {
+        font-size: 40px;
+        font-family: sans-serif;
+        font-weight: 500;
+        color: rgb(65, 139, 250);
+        line-height: 1.3em;
+    }
+    h2 {
+        font-size: 25px;
+        font-family: sans-serif;
+        color: rgb(65, 139, 250);
+        font-weight: 500;
+        line-height: 1.2em;
+    }
+
+    h3 {
+        font-size: 20px;
+        font-family: sans-serif;
+        color: rgb(65, 139, 250);
+        font-weight: 500;
+        line-height: 1.2em;
+    }
+    p {
+        font-size: 12px;
+        font-family: sans-serif;
+        color: black;
+        line-height: 2em;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 28px;
+        font-family: sans-serif;
+        color: black;
+        line-height: 1.3em;
+    }
+}
+
